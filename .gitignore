@@ -1,0 +1,16 @@
+# Informes y resultados generados
+informe_cctv.html
+informe*.html
+*.json
+!*.example.json
+resultados*.json
+
+# Objetivos reales (no subir redes/clientes)
+objetivos.txt
+targets.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

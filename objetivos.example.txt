@@ -1,0 +1,12 @@
+# Objetivos de auditoría CCTV-SPY (uno por línea)
+# Edita este fichero con TUS rangos/IPs. Admite IP, rango inicio-fin y CIDR.
+
+# Ejemplo: toda la red local
+192.168.1.0/24
+
+# Ejemplo: un rango concreto de cámaras
+# 192.168.1.60-192.168.1.80
+
+# Ejemplo: IPs sueltas
+# 192.168.1.64
+# 10.0.0.50
